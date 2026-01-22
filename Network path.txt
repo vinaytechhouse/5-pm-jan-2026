@@ -1,1 +1,7 @@
+Old Path:
+
 \\VINAYTECH\Multi-Tenant Practice\5 PM JAN 2026\Multi Customer DWH-Tabular Cube Data.xlsx
+
+New Path:
+
+\\VINAYTECH\Multi-Tenant Practice\5 PM JAN 2026\Multi Customer DWH-Tabular Cube Data2.xlsx
